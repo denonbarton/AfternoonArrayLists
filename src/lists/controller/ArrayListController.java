@@ -17,6 +17,10 @@ public class ArrayListController
 	public void start()
 	{
 		firstWords.add("asdihfalskjdfhlaskjdfhakljsdfh");
+		firstWords.add("babababbababababababababa");
+		/**
+		 *  displays the first word and then keeps moving on to the next
+		 */
 		displayList();
 	}
 	
